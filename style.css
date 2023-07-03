@@ -91,7 +91,7 @@ img {
 
 .main {
     position: relative;
-    background-image: url("Images/nbg.jpg");
+    background-image: url("images/nbg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     /* height: 100vh; */
@@ -178,7 +178,7 @@ p {
 }
 
 .outer {
-    background-image: url("Images/About.jpg");
+    background-image: url("images/about.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -208,7 +208,7 @@ button:hover {
 }
 
 .skills {
-    background-image: url("Images/About.jpg");
+    background-image: url("images/about.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 50rem;
